@@ -29,10 +29,7 @@
 1. `В веб-интерфейсе Zabbix Servera в разделе Templates создайте новый шаблон`
 2. `Создайте Item который будет собирать информацию об загрузке CPU в процентах`
 3. `Создайте Item который будет собирать информацию об загрузке RAM в процентах`
-.
-```
 
-`Скриншоты`
 ![Название скриншота 1](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-30-06.png)
 ![Название скриншота 2](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-30-56.png)
 ![Название скриншота 3](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-31-32.png)

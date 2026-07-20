@@ -34,11 +34,11 @@
 3. `Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона`
 
 
-![Название скриншота 5]()
-![Название скриншота 6]()
-![Название скриншота 7]()
-![Название скриншота 8]()
-![Название скриншота 9]()
+![Название скриншота 5](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-03-32.png)
+![Название скриншота 6](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-05-16.png)
+![Название скриншота 7](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-05-36.png)
+![Название скриншота 8](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-06-03.png)
+![Название скриншота 9](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-06-20.png)
 
 ### Задание 4
 

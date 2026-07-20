@@ -48,4 +48,5 @@
 1. `В разделе Dashboards создайте новый дашборд`
 2. `Разместите на нём несколько графиков на ваше усмотрение.`
 
-![Название скриншота 10]()
+![Название скриншота 10](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-31-11.png)
+![Название скриншота 11](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-31-29.png)

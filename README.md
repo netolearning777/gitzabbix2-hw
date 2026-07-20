@@ -33,7 +33,7 @@
 ```
 
 `Скриншоты`
-![Название скриншота 1](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-30-06.png))
+![Название скриншота 1](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-30-06.png)
 ![Название скриншота 2](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-30-56.png)
 ![Название скриншота 3](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-31-32.png)
 ![Название скриншота 4](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_14-32-32.png)

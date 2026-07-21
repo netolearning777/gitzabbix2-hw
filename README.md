@@ -50,3 +50,26 @@
 
 ![Название скриншота 10](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-31-11.png)
 ![Название скриншота 11](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-20_15-31-29.png)
+
+---
+### Задание 5
+
+`Создайте UserParameter на bash и прикрепите его к созданному вами ранее шаблону. Он должен вызывать скрипт, который:`
+
+* при получении 1 будет возвращать ваши ФИО,
+* при получении 2 будет возвращать текущую дату.
+```bash
+#!/bin/bash
+if [ "$1" = "1" ]; then
+    echo "Гусев Алексей"
+elif [ "$1" = "2" ]; then
+    date "+%Y-%m-%d %H:%M:%S"
+else
+    echo "Ошибка: используйте параметр 1 или 2"
+    exit 1
+fi
+```
+![Название скриншота 12](https://github.com/netolearning777/gitzabbix2-hw/blob/main/img/2026-07-21_13-10-30.png)
+---
+
+

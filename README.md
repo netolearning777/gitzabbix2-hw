@@ -78,8 +78,29 @@ fi
 * при получении 1 возвращать ваши ФИО,
 * при получении 2 возвращать текущую дату,
 * делать всё, что делал скрипт из лекции.
-```pyton
 
+`Python-скрипт`
+```python
+import datetime
+import os
+import re
+import sys
+if (sys.argv[1] == "1"): # Если аргумент равен 1
+  print("Гусев Алексей") # Выводим ФИО в консоль
+elif (sys.argv[1] == "2"): # Если аргумент равен 2
+  current_date = datetime.now().strftime("%Y-%m-%d") # Определяем текущую дату
+  print(current_date) # Выводим текущую дату в консоль
+elif (sys.argv[1] == '-ping'): # Если -ping
+  result=os.popen("ping -c 1 " + sys.argv[2]).read() # Делаем пинг по заданному адресу
+  time_result=re.search(r"time=(.*?) ms", result) # Выдёргиваем из результата время
+  if time_result:
+    print(time_result.group(1)) # Выводим результат в консоль
+  else:
+    print("Хост недоступен") # Выводим результат в консоль
+elif (sys.argv[1] == '-simple_print'): # Если simple_print
+  print(sys.argv[2]) # Выводим в консоль содержимое sys.argv[2]
+else: # Во всех остальных случаях
+  print(f"unknown input: {sys.argv[1]}") # Выводим непонятый запрос в консоль
 ```
 ![Название скриншота 13]()
 
